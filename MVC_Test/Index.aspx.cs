@@ -16,7 +16,7 @@ namespace MVC_Test
 
         protected void btSubmit_Click(object sender, EventArgs e)
         {
-            this.lbMessage.Text = "hello";
+            this.lbMessage.Text = "hello2";
         }
     }
 }
